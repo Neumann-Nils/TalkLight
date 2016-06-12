@@ -5,7 +5,7 @@ This application introduces an easy way to communicate witch each other with jus
 
 ## Code Example
 
-A small snippet to perform a action locally and remotely. This is the easiest use-case thinkable. The action are defined by us.
+A small snippet to perform an action locally and remotely. This is the easiest use-case thinkable. The action are defined by us.
 
 
     public void performAction(TLActionIdentifier action) {
