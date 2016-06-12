@@ -5,7 +5,24 @@ This application introduces an easy way to communicate witch each other with jus
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+A small snippet to perform a action locally and remotely. This is the easiest use-case thinkable. The action are defined by us.
+
+
+    public void performAction(TLActionIdentifier action) {
+		if (!privateMode) {
+			TLNetwork.getInstance().performAction(action);
+		}
+		
+		TLProfile profile = profilesLocal.get(action);
+		bridge.applyProfile(profile);
+	}
+
+	public void performActionRemote(TLActionIdentifier action) {
+		if (!silentMode) {
+			TLProfile profile = profilesRemote.get(action);
+			bridge.applyProfile(profile);
+		}
+	}
 
 ## Motivation
 
