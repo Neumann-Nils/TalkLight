@@ -26,7 +26,7 @@ A small snippet to perform a action locally and remotely. This is the easiest us
 
 ## Motivation
 
-In this times many people have fast changing life with fast changing residences. Many people today live in a long-distance relationship and have the feeling they are not included in the everyday life of their partner. Our goal is to achieve an intuituve and easy way of communication, which helps people to stay connected and creates the feeling of beeing near to your partner.
+In these times many people have fast changing life with fast changing residences. Many people today live in a long-distance relationship and have the feeling they are not included in the everyday life of their partner. Our goal is to achieve an intuituve and easy way of communication, which helps people to stay connected and creates the feeling of beeing near to your partner.
 
 ## Installation
 
