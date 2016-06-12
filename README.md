@@ -1,7 +1,7 @@
-![Alt text](http://fs5.directupload.net/images/160612/m3ruprlo.png "Talk Light")
+![Alt text](http://fs5.directupload.net/images/160612/fe9g7swu.png "#Talk Light")
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This application introduces an easy way to communicate witch each other with just only **light**. We have created an Android-App wich allows you to synchronize and control several Philip Hues over an Node js server, no matter where you or your partner is located. 
 
 ## Code Example
 
@@ -9,24 +9,31 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+In this times many people have fast changing life with fast changing residences. Many people today live in a long-distance relationship and have the feeling they are not included in the everyday life of their partner. Our goal is to achieve an intuituve and easy way of communication, which helps people to stay connected and creates the feeling of beeing near to your partner.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+You have to run the Android-Application on both of your smartphones and have them connected to a rightly arranged Philips Hue. 
+Furthermore you have to run the Node js Server.
+
+For more information see the documentation of the respective owners.
 
 ## API Reference
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+Philips hue: [http://www.developers.meethue.com/](http://www.developers.meethue.com/)
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+If you are connected with the Philip Hue and have your Android-Application running. You can easily select a partner and switch off the light with the "Good Night" Button.
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+This project was created at the **Inno{Hacks}** 24 hours hackathon in Karlsruhe by
 
-## License
+**Marc-Peter Eisinger**
 
-A short snippet describing the license (MIT, Apache, etc.)
+**Felix Lange**
+
+**Martin Essig**
+
+**Nils Neumann**
