@@ -22,9 +22,6 @@ For more information see the documentation of the respective owners.
 
 Philips hue: [http://www.developers.meethue.com/](http://www.developers.meethue.com/)
 
-## Tests
-
-If you are connected with the Philip Hue and have your Android-Application running. You can easily select a partner and switch off the light with the "Good Night" Button.
 
 ## Contributors
 
