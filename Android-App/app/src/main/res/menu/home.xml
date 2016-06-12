@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:actionProviderClass="@android:style/Widget.Holo.ActionButton.Overflow"
+    android:showAsAction="always"
+    >
+    <item android:title="Private Mode" android:id="@+id/privateMode" android:icon="@drawable/ic_private_inactive"
+        app:showAsAction="always"
+        />
+    <item android:title="Silent Mode" android:id="@+id/silentMode" android:icon="@drawable/ic_silent_inactive"
+        app:showAsAction="always"
+        />
+
+</menu>
