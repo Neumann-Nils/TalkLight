@@ -50,4 +50,6 @@ This project was created at the **Inno{Hacks}** 24 hours hackathon in Karlsruhe 
 
 **Martin Essig**
 
+**Henry Müssemann**
+
 **Nils Neumann**
