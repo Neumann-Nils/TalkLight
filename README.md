@@ -1,4 +1,8 @@
 ![Alt text](http://fs5.directupload.net/images/160612/fe9g7swu.png "#Talk Light")
+
+## Context
+Talk Light was created during the Inno{Hacks} 2016 in Karlsruhe. The project was essembled in just 24 hours and won the category "Social Innovation".
+
 ## Synopsis
 
 This application introduces an easy way to communicate witch each other with just only **light**. We have created an Android-App wich allows you to synchronize and control several Philip Hues over an Node js server, no matter where you or your partner is located. 
